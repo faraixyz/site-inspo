@@ -4,7 +4,7 @@ description: A blog about urban planning in Zimbabwe
 link: https://kelvinscorner.wordpress.com/
 feedUrl: https://kelvinscorner.wordpress.com/feed/
 publishdate: 2024-11-17T11:02:00+02:00
-tech: [wordpress]
+tech: [wordpress, stock-wordpress]
 tags: [urban-planning, zimbabwe]
 draft: false
 ---

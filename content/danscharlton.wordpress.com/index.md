@@ -5,7 +5,7 @@ publishdate: 2024-11-17T10:42:00+02:00
 link: https://dancharblog.wordpress.com/
 feedUrl: https://dancharblog.wordpress.com/feed/
 tags: [tech-hardware]
-tech: [wordpress]
+tech: [wordpress, stock-wordpress]
 draft: false
 ---
 

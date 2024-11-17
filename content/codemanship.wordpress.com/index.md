@@ -5,7 +5,7 @@ link: https://codemanship.wordpress.com/
 description: Blog on the art of software development. Hasn't posted in a while though.
 publishdate: 2024-11-17T10:28:00+02:00
 tags: [programming]
-tech: [wordpress]
+tech: [wordpress, stock-wordpress]
 draft: false
 ---
 

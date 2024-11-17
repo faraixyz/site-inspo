@@ -5,7 +5,7 @@ link: https://foodies263.wordpress.com/
 feedUrl: https://foodies263.wordpress.com/feed/
 publishdate: 2024-11-17T10:47:00+02:00
 tags: [food, zimbabwe]
-tech: [wordpress]
+tech: [wordpress, stock-wordpress]
 draft: false
 ---
 

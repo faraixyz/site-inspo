@@ -4,7 +4,7 @@ feedUrl: https://brickexperimentchannel.wordpress.com/feed/
 link: https://brickexperimentchannel.wordpress.com/
 publishdate: 2024-11-16T22:30:00+02:00
 tags: [toys]
-tech: [wordpress]
+tech: [wordpress, stock-wordpress]
 description: The blog of the guy who makes those Lego machines on YouTube
 draft: false
 ---
