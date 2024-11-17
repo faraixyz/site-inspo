@@ -2,6 +2,7 @@
 title: ...And Then There's Physics
 publishdate: 2024-11-16T22:00:00+02:00
 feedUrl: https://andthentheresphysics.wordpress.com/feed/
+link: https://andthentheresphysics.wordpress.com/
 tags: [climate]
 tech: [wordpress]
 description: A climate change blog with a run of the mill WordPress template.
